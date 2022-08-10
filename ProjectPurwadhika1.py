@@ -172,7 +172,7 @@ def removeRecord():
                     print('Data has been deleted. Returning to Data Deletion Menu')
                     break
                 else:
-                    print('Saving Cancelled. Returning to Data Deletion Menu')
+                    print('Deletion Cancelled. Returning to Data Deletion Menu')
                     continue
             else:
                 print('No data with that ID. Returning to Data Deletion Menu')
